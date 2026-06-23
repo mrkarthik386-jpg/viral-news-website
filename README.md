@@ -134,3 +134,7 @@ This project helped in understanding:
 - handling user interaction with sliders and computed values
 
 ---
+website link
+https://mrkarthik386-jpg.github.io/viral-news-website/
+
+
